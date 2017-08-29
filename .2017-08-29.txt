@@ -1,0 +1,8 @@
+This is log file written by client
+the format may be:
+[TIME]:remove file:
+[TIME]:remove dir:
+[TIME]:shutdown:
+[TIME]:connected to server:
+[TIME]:ping to gateway:
+[TIME]:ping to self
